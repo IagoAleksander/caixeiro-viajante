@@ -1,2 +1,2 @@
 # caixeiro-viajante
-Algoritmo genético para tratar do problema
+Algoritmo genético para tratar do problema - See relatorio.pdf
